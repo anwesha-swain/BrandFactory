@@ -66,3 +66,7 @@ C:\BrandFactory\API\obj\Debug\net7.0\refint\API.dll
 C:\BrandFactory\API\obj\Debug\net7.0\API.pdb
 C:\BrandFactory\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\BrandFactory\API\obj\Debug\net7.0\ref\API.dll
+C:\BrandFactory\API\bin\Debug\net7.0\Core.dll
+C:\BrandFactory\API\bin\Debug\net7.0\Infrastructure.dll
+C:\BrandFactory\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\BrandFactory\API\bin\Debug\net7.0\Core.pdb
